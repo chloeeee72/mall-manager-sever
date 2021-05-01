@@ -44,7 +44,7 @@
 
 ### 注：
 **在项目[vue_mall_manager](https://github.com/chloeeee72/vue-mall-manager)中，需要连接数据库**
-**方法：**
-**1、按照方法一启动该项目**
-**2、在navicat中创建连接 -> 新建数据库 -> 启动 mydb.sql 文件**
-**3、按照[vue_mall_manager](https://github.com/chloeeee72/vue-mall-manager)中README.MD文件启动vue项目**
+#### 方法：
+###### 1、按照方法一启动该项目
+###### 2、在navicat中创建连接 -> 新建数据库 -> 启动 mydb.sql 文件
+###### 3、按照[vue_mall_manager](https://github.com/chloeeee72/vue-mall-manager)中README.MD文件启动vue项目
